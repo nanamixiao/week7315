@@ -71,3 +71,4 @@ first -1 positon then delete the value , *  rear = (rear-1+capacity)%capacity
 
 ### video
 
+https://youtu.be/7MXM4UcILLY
