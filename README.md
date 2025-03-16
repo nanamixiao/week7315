@@ -41,7 +41,7 @@ add both on the top
 
 
 ENQUEUE
-  if Tail == head then
+  if (tail+1) % capacity = head
       error("Queue overflow")
 
 
